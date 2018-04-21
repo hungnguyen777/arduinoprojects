@@ -29,7 +29,7 @@ void loop()
 
 int i;
 
-void typepassword()
+void typePassword()
 {
   for(i = 0; i < passwordlength; i++)
   {
